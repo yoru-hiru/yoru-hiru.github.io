@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>黑猫的博客</title>
+    <link href="https://yoru-hiru.github.io/feed.xml" rel="self" />
+    <link href="https://yoru-hiru.github.io" />
+    <updated>2024-12-23T23:04:53+08:00</updated>
+    <author>
+        <name>黑猫</name>
+    </author>
+    <id>https://yoru-hiru.github.io</id>
+
+    <entry>
+        <title>Publii 主题开发</title>
+        <author>
+            <name>黑猫</name>
+        </author>
+        <link href="https://yoru-hiru.github.io/publii-zhu-ti-kai-fa.html"/>
+        <id>https://yoru-hiru.github.io/publii-zhu-ti-kai-fa.html</id>
+
+        <updated>2024-12-23T22:56:29+08:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    模板 模板语言：Handlebars 目录结构 必需 config.json index.hbs post.hbs thumbnail.png(400*300px) assets/css/main.css：用于生成styles.css，与可选生成的override.css文件合并 推荐 tag.hbs tags.hbs author.hbs 可选
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <div class="post__toc">
+<h3>目录</h3>
+<ul>
+<li><a href="#mcetoc_1ifq0ffa3a">目录结构</a>
+<ul>
+<li><a href="#mcetoc_1ifq0ffa3b">必需</a></li>
+<li><a href="#mcetoc_1ifq0fpjje">推荐</a></li>
+<li><a href="#mcetoc_1ifq0fpjjf">可选</a></li>
+</ul>
+</li>
+</ul>
+</div>
+<p><a href="https://github.com/GetPublii/theme-Blank" target="_blank" rel="noopener noreferrer">模板</a></p>
+<p>模板语言：<a href="https://handlebarsjs.com/" target="_blank" rel="noopener noreferrer">Handlebars</a></p>
+<h2 id="mcetoc_1ifq0ffa3a">目录结构</h2>
+<h3 id="mcetoc_1ifq0ffa3b">必需</h3>
+<ul>
+<li>config.json</li>
+<li>index.hbs</li>
+<li>post.hbs</li>
+<li>thumbnail.png(400*300px)</li>
+<li>assets/css/main.css：用于生成styles.css，与可选生成的<strong data-immersive-translate-walked="5c649801-987f-4971-9293-4fb317484399">override.css</strong>文件合并</li>
+</ul>
+<h3 id="mcetoc_1ifq0fpjje">推荐</h3>
+<ul>
+<li>tag.hbs</li>
+<li>tags.hbs</li>
+<li>author.hbs</li>
+</ul>
+<h3 id="mcetoc_1ifq0fpjjf">可选</h3>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>编程</title>
+        <author>
+            <name>黑猫</name>
+        </author>
+        <link href="https://yoru-hiru.github.io/bian-cheng.html"/>
+        <id>https://yoru-hiru.github.io/bian-cheng.html</id>
+
+        <updated>2024-12-22T19:12:12+08:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>架构选型</title>
+        <author>
+            <name>黑猫</name>
+        </author>
+        <link href="https://yoru-hiru.github.io/jia-gou-xuan-xing.html"/>
+        <id>https://yoru-hiru.github.io/jia-gou-xuan-xing.html</id>
+
+        <updated>2024-12-22T19:06:45+08:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>工程</title>
+        <author>
+            <name>黑猫</name>
+        </author>
+        <link href="https://yoru-hiru.github.io/gong-cheng.html"/>
+        <id>https://yoru-hiru.github.io/gong-cheng.html</id>
+
+        <updated>2024-12-12T22:10:20+08:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>点餐软件</title>
+        <author>
+            <name>黑猫</name>
+        </author>
+        <link href="https://yoru-hiru.github.io/dian-can-ruan-jian.html"/>
+        <id>https://yoru-hiru.github.io/dian-can-ruan-jian.html</id>
+
+        <updated>2024-12-06T00:20:08+08:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>审查</title>
+        <author>
+            <name>黑猫</name>
+        </author>
+        <link href="https://yoru-hiru.github.io/ce-shi.html"/>
+        <id>https://yoru-hiru.github.io/ce-shi.html</id>
+
+        <updated>2024-12-02T21:26:27+08:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    测试 功能 优化 安全 路线图 可访问性 隐私性
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <div class="post__toc">
+<h3>目录</h3>
+<ul>
+<li> </li>
+<li><a href="#mcetoc_1ie3qih952q">测试</a>
+<ul>
+<li><a href="#mcetoc_1ie3qih952s">功能</a></li>
+<li><a href="#mcetoc_1ie3qih952t">优化</a>
+<ul>
+<li><a href="#mcetoc_1ie3qih952u">安全</a></li>
+<li><a href="#mcetoc_1ie3qih952v">性能</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="#mcetoc_1ie3rfdm13f">模式</a></li>
+</ul>
+</div>
+<h2 id="mcetoc_1ie3qih952p"></h2>
+<h2 id="mcetoc_1ie3qih952q">测试</h2>
+<h3 id="mcetoc_1ie3qih952s">功能</h3>
+<h3 id="mcetoc_1ie3qih952t">优化</h3>
+<h4 id="mcetoc_1ie3qih952u">安全</h4>
+<p><a href="https://roadmap.sh/cyber-security" target="_blank" rel="noopener noreferrer">路线图</a></p>
+<h4 id="mcetoc_1ie3qih952v">性能</h4>
+<p>可访问性</p>
+<p>隐私性</p>
+<p> </p>
+<h2 id="mcetoc_1ie3rfdm13f">模式</h2>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>AI</title>
+        <author>
+            <name>黑猫</name>
+        </author>
+        <link href="https://yoru-hiru.github.io/ai.html"/>
+        <id>https://yoru-hiru.github.io/ai.html</id>
+
+        <updated>2024-10-19T09:30:35+08:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    理论 数学 统计 计量经济 编码 探索性数据分析 机器学习 深度学习 MLOps 应用 模型 OpenAI Hugging Face Ollama 嵌入 用例 语义搜索 数据分类 推荐系统 异常检测 工具 Open AI BERT&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <div class="post__toc">
+<h3>目录</h3>
+<ul>
+<li><a href="#mcetoc_1iah88urn5i">理论</a>
+<ul>
+<li><a href="#mcetoc_1iah8fj456d">数学</a></li>
+<li><a href="#mcetoc_1iah8fj456e">统计</a></li>
+<li><a href="#mcetoc_1iah8fj456f">计量经济</a></li>
+<li><a href="#mcetoc_1iah8fj456g">编码</a></li>
+<li><a href="#mcetoc_1iah8fj456h">探索性数据分析</a></li>
+<li><a href="#mcetoc_1iah8fj456i">机器学习</a></li>
+<li><a href="#mcetoc_1iah8fj456j">深度学习</a></li>
+<li><a href="#mcetoc_1iah8fj456k">MLOps</a></li>
+</ul>
+</li>
+<li><a href="#mcetoc_1iah8b9o85r">应用</a>
+<ul>
+<li><a href="#mcetoc_1iah731l61">模型</a></li>
+<li><a href="#mcetoc_1iah7gh8ur">嵌入</a>
+<ul>
+<li><a href="#mcetoc_1iah7utnl47">用例</a></li>
+<li><a href="#mcetoc_1iah7utnl48">工具</a></li>
+</ul>
+</li>
+<li><a href="#mcetoc_1iah7gh8us">矢量数据库</a></li>
+<li><a href="#mcetoc_1iah7q7rq3i">RAG</a>
+<ul>
+<li><a href="#mcetoc_1iah801b54g">过程</a></li>
+</ul>
+</li>
+<li><a href="#mcetoc_1iah7q7rq3j">代理</a></li>
+<li><a href="#mcetoc_1iah7q7rq3k">多模态</a>
+<ul>
+<li><a href="#mcetoc_1iah85sil55">用例</a></li>
+</ul>
+</li>
+<li><a href="#mcetoc_1iah7q7rq3l">工具</a></li>
+<li><a href="#mcetoc_1iah7b4f4k">安全</a></li>
+</ul>
+</li>
+<li><a href="#mcetoc_1iah8b9o85s">数据分析</a></li>
+</ul>
+</div>
+<h2 id="mcetoc_1iah88urn5i">理论</h2>
+<h3 id="mcetoc_1iah8fj456d">数学</h3>
+<h3 id="mcetoc_1iah8fj456e">统计</h3>
+<h3 id="mcetoc_1iah8fj456f">计量经济</h3>
+<h3 id="mcetoc_1iah8fj456g">编码</h3>
+<h3 id="mcetoc_1iah8fj456h">探索性数据分析</h3>
+<h3 id="mcetoc_1iah8fj456i">机器学习</h3>
+<h3 id="mcetoc_1iah8fj456j">深度学习</h3>
+<h3 id="mcetoc_1iah8fj456k">MLOps</h3>
+<h2 id="mcetoc_1iah8b9o85r">应用</h2>
+<h3 id="mcetoc_1iah731l61">模型</h3>
+<ul>
+<li><a href="https://platform.openai.com/docs/models" target="_blank" rel="noopener noreferrer">OpenAI</a></li>
+<li><a href="https://huggingface.co/" target="_blank" rel="noopener noreferrer">Hugging Face</a></li>
+<li><a href="https://ollama.com/" target="_blank" rel="noopener noreferrer">Ollama</a></li>
+</ul>
+<h3 id="mcetoc_1iah7gh8ur">嵌入</h3>
+<h4 id="mcetoc_1iah7utnl47">用例</h4>
+<ul>
+<li>语义搜索</li>
+<li>数据分类</li>
+<li>推荐系统</li>
+<li>异常检测</li>
+</ul>
+<h4 id="mcetoc_1iah7utnl48">工具</h4>
+<ul>
+<li><a href="https://platform.openai.com/docs/api-reference/embeddings/create" target="_blank" rel="noopener noreferrer">Open AI</a></li>
+<li><a href="https://h2o.ai/wiki/bert/" target="_blank" rel="noopener noreferrer">BERT</a></li>
+<li><a href="https://sbert.net/" target="_blank" rel="noopener noreferrer">SBERT</a></li>
+<li><a href="https://huggingface.co/" target="_blank" rel="noopener noreferrer">Hugging Face</a></li>
+</ul>
+<h3 id="mcetoc_1iah7gh8us">矢量数据库</h3>
+<h3 id="mcetoc_1iah7q7rq3i">RAG</h3>
+<h4 id="mcetoc_1iah801b54g">过程</h4>
+<p id="mcetoc_1iah801b54h">分块</p>
+<p id="mcetoc_1iah801b54i">嵌入</p>
+<p id="mcetoc_1iah801b54j">矢量数据库</p>
+<p id="mcetoc_1iah801b54k">检索</p>
+<p id="mcetoc_1iah801b54l">生成</p>
+<h3 id="mcetoc_1iah7q7rq3j">代理</h3>
+<h3 id="mcetoc_1iah7q7rq3k">多模态</h3>
+<h4 id="mcetoc_1iah85sil55">用例</h4>
+<ul>
+<li>图像理解</li>
+<li>图像生成</li>
+<li>视频理解</li>
+<li>音频处理</li>
+<li>语音转文本</li>
+<li>文本转语音</li>
+</ul>
+<h3 id="mcetoc_1iah7q7rq3l">工具</h3>
+<h3 id="mcetoc_1iah7b4f4k">安全</h3>
+<h2 id="mcetoc_1iah8b9o85s">数据分析</h2>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Radix</title>
+        <author>
+            <name>黑猫</name>
+        </author>
+        <link href="https://yoru-hiru.github.io/radix.html"/>
+        <id>https://yoru-hiru.github.io/radix.html</id>
+
+        <updated>2024-10-11T13:35:12+08:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    安装包 npm install @radix-ui/themes 导入样式 import "@radix-ui/themes/styles.css";
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <ol>
+<li>安装包
+<pre class="language-bash"><code>npm install @radix-ui/themes</code></pre>
+</li>
+<li>导入样式
+<pre class="language-javascript"><code>import "@radix-ui/themes/styles.css";
+</code></pre>
+</li>
+</ol>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Refine</title>
+        <author>
+            <name>黑猫</name>
+        </author>
+        <link href="https://yoru-hiru.github.io/refine.html"/>
+        <id>https://yoru-hiru.github.io/refine.html</id>
+
+        <updated>2024-10-07T19:13:36+08:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    React 元框架。 用于 CRUD 密集型 Web 应用： 通过核心组件和钩子， npm create refine-app@latest 选择模板 Vite Next 选择后端服务 选择 UI 框架
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>React 元框架。</p>
+<p>用于 CRUD 密集型 Web 应用：</p>
+<ul>
+<li>内部工具</li>
+<li>管理面板</li>
+<li>仪表盘</li>
+<li>B2B 应用</li>
+<li>表单</li>
+</ul>
+<p>通过核心组件和钩子，</p>
+<ul>
+<li>身份验证</li>
+<li>访问控制</li>
+<li>路由</li>
+<li>网络</li>
+<li>状态管理</li>
+<li>国际化</li>
+</ul>
+<p> </p>
+<ul>
+<li>平台
+<ul>
+<li>Next.js</li>
+<li>Remix</li>
+<li>React Native</li>
+<li>Electron</li>
+</ul>
+</li>
+<li>UI
+<ul>
+<li>TailwindCSS</li>
+<li>Ant Design</li>
+<li>Material UI</li>
+<li>Mantine</li>
+<li>Chakra UI</li>
+</ul>
+</li>
+<li>验证</li>
+<li>后端</li>
+</ul>
+<h2>使用</h2>
+<pre class="language-bash"><code>npm create refine-app@latest</code></pre>
+<ol>
+<li>选择模板
+<ul>
+<li>Vite</li>
+<li>Next</li>
+</ul>
+</li>
+<li>选择后端服务</li>
+<li>选择 UI 框架</li>
+</ol>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Ant Design Pro 6</title>
+        <author>
+            <name>黑猫</name>
+        </author>
+        <link href="https://yoru-hiru.github.io/ant-design-pro.html"/>
+        <id>https://yoru-hiru.github.io/ant-design-pro.html</id>
+
+        <updated>2024-09-26T15:23:03+08:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    准备 依赖 node git 安装 npm i @ant-design/pro-cli -g npm install yarn tyarn -g # 不用 tyarn 很容易依赖安装失败 使用 创建应用 pro create my-app cd my-app&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <div class="post__toc">
+<h3>目录</h3>
+<ul>
+<li><a href="#mcetoc_1i94716a61g">准备</a>
+<ul>
+<li><a href="#mcetoc_1i94716a61h">依赖</a></li>
+<li><a href="#mcetoc_1i94716a61i">安装</a></li>
+</ul>
+</li>
+<li><a href="#mcetoc_1i94716a61j">使用</a>
+<ul>
+<li><a href="#mcetoc_1i94716a61k">创建应用</a></li>
+</ul>
+</li>
+</ul>
+</div>
+<h2 id="mcetoc_1i94716a61f"></h2>
+<h2 id="mcetoc_1i94716a61g">准备</h2>
+<h3 id="mcetoc_1i94716a61h">依赖</h3>
+<ul>
+<li>node</li>
+<li>git</li>
+</ul>
+<h3 id="mcetoc_1i94716a61i">安装</h3>
+<pre class="language-bash"><code>npm i @ant-design/pro-cli -g
+npm install yarn tyarn -g # 不用 tyarn 很容易依赖安装失败 </code></pre>
+<h2 id="mcetoc_1i94716a61j">使用</h2>
+<h3 id="mcetoc_1i94716a61k">创建应用</h3>
+<pre class="language-bash"><code>pro create my-app
+cd my-app
+tyarn
+yarn start</code></pre>
+<p class="msg--warning msg--highlight msg">白屏问题：删除路由 user/404（在 config/routes.ts 文件里）</p>
+<h3>国际化</h3>
+<p>src/locales</p>
+<p> </p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+</feed>

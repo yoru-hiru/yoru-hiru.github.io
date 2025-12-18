@@ -1,1 +1,0 @@
-# yoru-hiru.github.io
