@@ -1,0 +1,9 @@
+#mindMapContainerLife, #mindMapContainerCareer, #mindMapContainerKnowledge {
+    width: 100%;
+    height: 400px;
+  }
+
+#mindMapContainerLife *, #mindMapContainerCareer *, #mindMapContainerKnowledge * {
+  margin: 0;
+  padding: 0;
+}
