@@ -1,0 +1,19 @@
+{
+  "$schema": "https://cms.yunle.fun/spec/manifest.v1.schema.json",
+  "version": 1,
+  "name": "yoru-hiru.github.io",
+  "collections": [
+    {
+      "id": "content",
+      "label": "Content",
+      "root": "path/to/content",
+      "format": "markdown",
+      "include": [
+        "**/*.md"
+      ]
+    }
+  ],
+  "workflow": {
+    "reviewPreferred": true
+  }
+}
